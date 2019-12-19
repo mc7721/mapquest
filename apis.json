@@ -1,0 +1,107 @@
+{
+    "name": "MapQuest",
+    "description": "Official MapQuest website, find driving directions, maps, live traffic updates and road conditions.  Find nearby businesses, restaurants and hotels. Explore!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/365-mapquest.jpg",
+    "tags": [
+        "api provider",
+        "directions",
+        "display",
+        "elevation",
+        "general data",
+        "geo",
+        "gps",
+        "have api",
+        "http post",
+        "locations",
+        "maps",
+        "openstreetmap",
+        "places",
+        "relative data",
+        "routes",
+        "traffic",
+        "viewers"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mapquest\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MapQuest Search API: Place Search",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/365-mapquest.jpg",
+            "humanURL": "http:\/\/developer.mapquest.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mapquest-search-api-place-search-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/mapquest-search-api-place-search.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mapquest-search-api-place-search-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/open.mapquestapi.com\/s"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.mapquest.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.mapquest.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mapquest"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/mapquest"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.mapquest.com\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.mapquestapi.com\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/developer.mapquest.com\/documentation\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/MapQuest"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/developer.mapquest.com\/plans"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/MapQuest"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/mapquest.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.mapquest.com"
+        }
+    ]
+}
