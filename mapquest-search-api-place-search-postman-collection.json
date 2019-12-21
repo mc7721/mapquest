@@ -1,5 +1,5 @@
 {
-    "id": "723754dc8d5e7178461655482aec52eb",
+    "id": "6403fbc74a96e5da126d912819399952",
     "name": "MapQuest Search API: Place Search",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "f87e2cdeb0b7756af338c2487ffaf8d7",
+            "id": "3a87e6941b32707ced1f5e33fad306ff",
             "name": "Search for places with optional geographic and categorical contexts.",
             "url": "httpswww.mapquestapi.com\/\/search\/v4\/place",
             "description": "Get a list of search results ordered by relevance or distance from a spatial reference point, optionally filtered by category, and optionally bounded within a geographic constraint.",
@@ -114,7 +114,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "723754dc8d5e7178461655482aec52eb",
+            "collectionId": "6403fbc74a96e5da126d912819399952",
             "rawModeData": ""
         }
     ]
